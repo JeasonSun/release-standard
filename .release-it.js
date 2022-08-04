@@ -6,10 +6,10 @@ module.exports = {
   hooks: {
     "after:bump": "npx auto-changelog -p",
   },
-  plugins: {
-    "@release-it/conventional-changelog": {
-      infile: "CHANGELOG.md",
-      preset: "conventionalcommits",
-    },
-  },
+  // plugins: {
+  //   "@release-it/conventional-changelog": {
+  //     infile: "CHANGELOG.md",
+  //     preset: "conventionalcommits",
+  //   },
+  // },
 };
