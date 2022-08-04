@@ -1,5 +1,12 @@
 
 
+## [1.3.0](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.2.2...1.3.0) (2022-08-04)
+
+
+### Features
+
+* preset conventionalcommits ([8e46e3f](http://git.okjiaoyu.cn/fe-test/npm_standard/commit/8e46e3f4aaf83dcacd312b6048f96e674b6fad6e))
+
 ## [1.2.2](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.2.1...1.2.2) (2022-08-04)
 
 ## [1.2.1](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.2.0...1.2.1) (2022-08-04)
