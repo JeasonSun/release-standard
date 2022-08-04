@@ -1,5 +1,12 @@
 
 
+# [1.6.0](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.5.0...1.6.0) (2022-08-04)
+
+
+### Features
+
+commit info ?? commit info ??
+
 # [1.5.0](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.4.0...1.5.0) (2022-08-04)
 
 
