@@ -1,10 +1,10 @@
 module.exports = {
   git: {
     changelog:
-      "npx auto-changelog --stdout --commit-limit false --unreleased --template https://raw.githubusercontent.com/release-it/release-it/master/templates/changelog-compact.hbs",
+      "auto-changelog --stdout --commit-limit false --unreleased --template json",
   },
   hooks: {
-    "after:bump": "npx auto-changelog -p",
+    "after:bump": "auto-changelog -p",
   },
   // plugins: {
   //   "@release-it/conventional-changelog": {
