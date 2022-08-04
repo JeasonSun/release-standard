@@ -1,5 +1,12 @@
 
 
+## [1.4.0](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.3.0...1.4.0) (2022-08-04)
+
+
+### Features
+
+* chore(release): {{currentTag}} ([e26efb3](http://git.okjiaoyu.cn/fe-test/npm_standard/commit/e26efb302709f595e4e6fb8acaa86bc98fb29e3a))
+
 ## [1.3.0](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.2.2...1.3.0) (2022-08-04)
 
 
