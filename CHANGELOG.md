@@ -1,5 +1,12 @@
 
 
+## [1.7.2](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.7.1...1.7.2) (2022-08-04)
+
+
+### feat
+
+* 22eslint ([7647dfb](http://git.okjiaoyu.cn/fe-test/npm_standard/commits/7647dfbca26e694690044dd4a588912724cbd8b3))
+
 ## [1.7.1](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.7.0...1.7.1) (2022-08-04)
 
 # [1.7.0](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.6.0...1.7.0) (2022-08-04)
