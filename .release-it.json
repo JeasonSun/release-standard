@@ -1,8 +1,11 @@
 {
   "plugins": {
     "@release-it/conventional-changelog": {
-      "preset": "conventionalcommits",
-      "infile": "CHANGELOG.md"
+      "infile": "CHANGELOG.md",
+      "preset": {
+        "name": "conventionalcommits",
+        "releaseCommitMessageFormat": "chore(release): {{currentTag}} wh"
+      }
     }
   }
 }
