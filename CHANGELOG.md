@@ -1,5 +1,8 @@
 
 
+[1.7.3](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.7.2...1.7.3) / 2022-08-04
+===================
+
 ## [1.7.2](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.7.1...1.7.2) (2022-08-04)
 
 
