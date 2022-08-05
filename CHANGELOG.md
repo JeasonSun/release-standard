@@ -1,5 +1,11 @@
 ### Custom Template
-#### [Unreleased](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.8.24...HEAD)
+#### [Unreleased](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.8.25...HEAD)
+
+#### [1.8.25](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.8.24...1.8.25)
+
+> 5 August 2022
+
+- Release 1.8.25 [`a23f3a3`](http://git.okjiaoyu.cn/fe-test/npm_standard/commit/a23f3a312b309108eb7a1335361c5aef7017e78e) mojie 测试是否生效
 
 #### [1.8.24](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.8.23...1.8.24)
 
