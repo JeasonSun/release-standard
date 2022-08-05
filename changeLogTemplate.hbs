@@ -20,7 +20,7 @@
     - {{#if commit.breaking}}**Breaking change:** {{/if}}{{commit.subject}}{{#each fixes}}{{#if href}} [`#{{id}}`]({{href}}){{/if}}{{/each}}
   {{/each}}
   {{#each commits}}
-    - {{#if breaking}}**Breaking change:** {{/if}}{{subject}}{{#if href}} [`{{shorthash}}`]({{href}}){{/if}} {{author}}
+    - {{#if breaking}}**Breaking change:** {{/if}}{{subject}}{{#if href}} [`{{shorthash}}`]({{href}}){{/if}} {{author}} 测试是否生效
   {{/each}}
 
 {{/each}}
