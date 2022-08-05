@@ -5,7 +5,7 @@ module.exports = {
     changelog:
       `auto-changelog --commit-limit false --unreleased --template json`,
   },
-  hooks: {
-    "after:bump": `auto-changelog -p --template ${template}`,
-  },
+  // hooks: {
+  //   "after:bump": `auto-changelog -p --template ${template}`,
+  // },
 };
