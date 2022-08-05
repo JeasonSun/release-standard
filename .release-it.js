@@ -8,7 +8,9 @@ module.exports = {
   hooks: {
     "after:bump": `auto-changelog -p --template json`,
   },
-  publishConfig: {
-    registry: 'http://10.60.0.115:8989/'
+  npm: {
+    publishConfig: {
+      registry: 'http://10.60.0.115:8989/'
+    }
   }
 };
