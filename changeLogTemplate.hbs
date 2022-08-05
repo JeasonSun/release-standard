@@ -1,4 +1,4 @@
-### Custom Template
+### CHANGELOG
 {{#each releases}}
   {{#if href}}
     ###{{#unless major}}#{{/unless}} [{{title}}]({{href}})
@@ -21,7 +21,7 @@
     - {{#if commit.breaking}}**Breaking change:** {{/if}}{{commit.subject}}{{#each fixes}}{{#if href}} [`#{{id}}`]({{href}}){{/if}}{{/each}}
   {{/each}}
   {{#each commits}}
-    - {{#if breaking}}**Breaking change:** {{/if}}{{subject}}{{#if href}} [`{{shorthash}}`]({{href}}){{/if}} {{author}} 测试是否生效
+    - {{#if breaking}}**Breaking change:** {{/if}}{{subject}}{{#if href}} [`{{shorthash}}`]({{href}}){{/if}} `{{author}}`
   {{/each}}
 
 {{/each}}
