@@ -10,9 +10,6 @@
     "type": "git",
     "url": "http://git.okjiaoyu.cn/fe-test/npm_standard.git"
   },
-  "publishConfig": {
-    "registry": "http://10.60.0.115:8989/"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
