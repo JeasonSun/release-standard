@@ -6,6 +6,9 @@ module.exports = {
       `auto-changelog --commit-limit false --unreleased --template ${template}`,
   },
   hooks: {
-    "after:bump": `auto-changelog -p --template ${template}`,
+    "after:bump": `auto-changelog -p --template json`,
   },
+  publishConfig: {
+    registry: 'http://10.60.0.115:8989/'
+  }
 };

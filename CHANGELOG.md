@@ -1,6 +1,11 @@
 ### CHANGELOG
+#### [Unreleased](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.8.29...HEAD)
+
 #### [1.8.29](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.8.28...1.8.29)
 
+> 5 August 2022
+
+- Release 1.8.29 [`779221c`](http://git.okjiaoyu.cn/fe-test/npm_standard/commit/779221c7b93f70116bf4b84fce98657ec7f9569e) `mojie`
 - feat: 完成auto changelog 配置 [`d993e08`](http://git.okjiaoyu.cn/fe-test/npm_standard/commit/d993e08eb2e2081e359f7c24a18c96a5d60b4abb) `mojie`
 
 #### [1.8.28](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.8.27...1.8.28)
@@ -122,6 +127,7 @@
 - Release 1.8.11 [`b2d7c60`](http://git.okjiaoyu.cn/fe-test/npm_standard/commit/b2d7c605ab695afbc7877131236c2ffe4c57a8dd) `mojie`
 - feat: xiugai [`9ae8683`](http://git.okjiaoyu.cn/fe-test/npm_standard/commit/9ae86834b3e3f2444ed99d533f899eb4ba639f53) `mojie`
 - feat: 新版本 [`083e06c`](http://git.okjiaoyu.cn/fe-test/npm_standard/commit/083e06c55d394f5cf2a06389645d624a5afc8530) `mojie`
+- feat: 膝盖 [`1d291f9`](http://git.okjiaoyu.cn/fe-test/npm_standard/commit/1d291f96c60807fa2c8ca3cab874a674a00f626d) `mojie`
 
 #### [1.8.9](http://git.okjiaoyu.cn/fe-test/npm_standard/compare/1.8.8...1.8.9)
 
